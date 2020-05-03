@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>Comentarios en: Dulces</title>
-	<atom:link href="/dulces/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oneeyedman.github.io/amiloquemegustaescocinar/dulces/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 11 Feb 2016 14:16:16 +0000</lastBuildDate>

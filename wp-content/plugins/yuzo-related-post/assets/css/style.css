@@ -31,7 +31,7 @@ Yuzo in post
 /* views */
 .yuzo_icon_views{
   padding-left: 21px;
-  background: url(/wp-content/plugins/yuzo-related-post/assets/images/views.png) 0 3px no-repeat;
+  background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/plugins/yuzo-related-post/assets/images/views.png) 0 3px no-repeat;
   color: #000;
   font-style: italic;
 }
@@ -61,7 +61,7 @@ Yuzo in post
 }
 .yuzo-list .link-list .yuzo_views_post{
   display: inline-block!important;
-  background: url(/wp-content/plugins/yuzo-related-post/assets/images/views.png) 0 6px no-repeat;
+  background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/plugins/yuzo-related-post/assets/images/views.png) 0 6px no-repeat;
   margin: 0;
   font-weight: normal;
 }
@@ -70,7 +70,7 @@ Yuzo in post
 }
 .style-3 .yuzo-list:before {
   content: '';
-  background: url(/wp-content/plugins/yuzo-related-post/assets/images/arrow-left-point.png);
+  background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/plugins/yuzo-related-post/assets/images/arrow-left-point.png);
   position: absolute;
   left: 0;
   top: 7px;
@@ -131,7 +131,7 @@ Yuzo in post
     opacity: .9;
 }
 .yuzo-list-color .yuzo_icon_views {
-    background: url(/wp-content/plugins/yuzo-related-post/assets/images/views2.png) 0 7px no-repeat;
+    background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/plugins/yuzo-related-post/assets/images/views2.png) 0 7px no-repeat;
     opacity: .6;
     color: #4D4D4D;
     font-weight: normal;
@@ -188,7 +188,7 @@ Yuzo in Widget
 /* views */
 .yuzo_icon_views{
   padding-left: 21px;
-  background: url(/wp-content/plugins/yuzo-related-post/assets/images/views.png) 0 3px no-repeat;
+  background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/plugins/yuzo-related-post/assets/images/views.png) 0 3px no-repeat;
   color: #000;
   font-style: italic;
 }
@@ -218,7 +218,7 @@ Yuzo in Widget
   text-align: left;
 }
 .yuzo-list .link-list .yuzo_views_post{
-  background: url(/wp-content/plugins/yuzo-related-post/assets/images/views.png) 0 6px no-repeat;
+  background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/plugins/yuzo-related-post/assets/images/views.png) 0 6px no-repeat;
   margin: 0;
   font-weight: normal;
 }
@@ -227,7 +227,7 @@ Yuzo in Widget
 }
 .style-3 .yuzo-list:before {
     content: '';
-    background: url(/wp-content/plugins/yuzo-related-post/assets/images/arrow-left-point.png);
+    background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/plugins/yuzo-related-post/assets/images/arrow-left-point.png);
     position: absolute;
     left: 0;
     top: 7px;
@@ -290,7 +290,7 @@ Yuzo in Widget
   opacity: .9;
 }
 .yuzo-list-color .yuzo_icon_views {
-  background: url(/wp-content/plugins/yuzo-related-post/assets/images/views2.png) 0 7px no-repeat;
+  background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/plugins/yuzo-related-post/assets/images/views2.png) 0 7px no-repeat;
   opacity: .6;
   color: #4D4D4D;
   font-weight: normal;
@@ -307,10 +307,10 @@ Yuzo in Widget
   display: block!important;
 }
 .yuzo_related_post_widget .yuzo-list-color  .yuzo_icon_views {
-  background: url(/wp-content/plugins/yuzo-related-post/assets/images/views2.png) 0 0px no-repeat;
+  background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/plugins/yuzo-related-post/assets/images/views2.png) 0 0px no-repeat;
 }
 .yuzo_related_post_widget.style-1 .yuzo_icon_views {
-  background: url(/wp-content/plugins/yuzo-related-post/assets/images/views2.png) 0 2px no-repeat;
+  background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/plugins/yuzo-related-post/assets/images/views2.png) 0 2px no-repeat;
 }
 
 

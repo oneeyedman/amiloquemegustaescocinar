@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>Comentarios para </title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oneeyedman.github.io/amiloquemegustaescocinar/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 03 Mar 2016 12:09:34 +0000</lastBuildDate>

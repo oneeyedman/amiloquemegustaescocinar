@@ -1045,7 +1045,7 @@ span.ERComment {
 }
 
 .daily-dish-home .content .genesis_responsive_slider .flex-direction-nav li a {
-	background: url(/wp-content/themes/daily-dish-pro/images/icon-direction-nav.png) no-repeat -50px 0;
+	background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/themes/daily-dish-pro/images/icon-direction-nav.png) no-repeat -50px 0;
 	background-size: 100px 98px;
 	height: 49px;
 	outline: none;
@@ -1167,7 +1167,7 @@ Site Header
 
 
 .header-image .site-title a {
-  background: url(/wp-content/uploads/2015/08/Header.png) no-repeat;
+  background: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/uploads/2015/08/Header.png) no-repeat;
   height: 231px;
   width: 1080px;
 }
@@ -1769,7 +1769,7 @@ Media Queries
 	only screen and (min-device-pixel-ratio: 1.5) {
 
 	.genesis_responsive_slider #genesis-responsive-slider .flex-direction-nav li a {
-		background-image: url(/wp-content/themes/daily-dish-pro/images/icon-direction-nav@2x.png);
+		background-image: url(https://oneeyedman.github.io/amiloquemegustaescocinar/wp-content/themes/daily-dish-pro/images/icon-direction-nav@2x.png);
 	}
 
 }
